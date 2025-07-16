@@ -15,7 +15,7 @@ body {
   padding: 24px;
   background-color: #f0e8c2;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
 }
 
 img {
@@ -51,4 +51,14 @@ h1, h2 {
 
 ul {
   padding-left: 24px;
+}
+
+footer {
+  color: #f0e8c2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
 }
