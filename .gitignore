@@ -1,0 +1,12 @@
+# os junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# local tooling
+.claude/
